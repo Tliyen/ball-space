@@ -17,3 +17,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Forked project from GitHub https://github.com/jedi-academy/starter-quotes
 - changelog file to track significant changes
+- Added a Grumpy Cat image to /public/pix
+- Added Grumpy Cat quote to Quotes.php
