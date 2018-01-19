@@ -19,3 +19,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - changelog file to track significant changes
 - Added a Grumpy Cat image to /public/pix
 - Added Grumpy Cat quote to Quotes.php
+
+### Modified
+- Linked portraits to tooltip links
+- Update Grumpy Cat naming
