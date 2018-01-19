@@ -18,16 +18,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Added actor.php view to display an individual actor
 
 ### Modified
+- Modified actor.php tool tip image to show role and quote
 - Changed Welcome.php controller to show actor page
 - Changed homepage.php view so images link to the actor view
 
 ## 0.0.1 - 2018-01-19
 ### Added
-- Forked project from GitHub https://github.com/jedi-academy/starter-quotes
-- changelog file to track significant changes
-- Added a Grumpy Cat image to /public/pix
 - Added Grumpy Cat quote to Quotes.php
+- Added a Grumpy Cat image to /public/pix
+- Create changelog file to track significant changes
+- Forked project from GitHub https://github.com/jedi-academy/starter-quotes
 
 ### Modified
-- Linked portraits to tooltip links
 - Update Grumpy Cat naming
+- Linked portraits to tooltip links
